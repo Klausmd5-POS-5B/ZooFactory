@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ZooFactory/App.axaml" value="ZooFactory/ZooFactory.csproj" />
+        <entry key="ZooFactory/MainWindow.axaml" value="ZooFactory/ZooFactory.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

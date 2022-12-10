@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DA/dSaPkcngdqEPDKXd+OL7su6kR9tdfSMtnZRDnM2iuc2aGUcgBeIEOWgEi1DvQsaMtcrnsGEhaDdKX+lbzMw==",
+  "success": true,
+  "projectFilePath": "/home/klaus/Downloads/school/pos/ZooFactory/FactoryLib/FactoryLib.csproj",
+  "expectedPackageFiles": [
+    "/home/klaus/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
